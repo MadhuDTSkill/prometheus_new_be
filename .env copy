@@ -1,0 +1,18 @@
+# JWT
+ACCESS_TOKEN_LIFETIME_DAYS = 7
+ALGORITHM = HS256
+SECRET_KEY = "vlaue"
+
+
+#GROQ
+GROQ_API_KEY = "value"
+
+# Database settings
+
+MEMORY_DATABASE_URL = "value"
+
+POSTGRES_DB = value
+POSTGRES_USER = value
+POSTGRES_PASSWORD = value
+POSTGRES_HOST = value
+POSTGRES_PORT = value
